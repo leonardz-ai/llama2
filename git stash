@@ -1,0 +1,47 @@
+[33mcommit 85e6cc20f466285586afb908718e23aeb2dd46ab[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Leonard <141798184+leonardz-ai@users.noreply.github.com>
+Date:   Fri Jan 12 10:18:08 2024 -0600
+
+    Delete .streamlit/secrets.toml
+
+[33mcommit 0bab1694c5e4cec58309ae34418751339cd2760b[m
+Author: Leonard <141798184+leonardz-ai@users.noreply.github.com>
+Date:   Fri Jan 12 16:09:48 2024 +0000
+
+    update
+
+[33mcommit bb93b65849fab2f98affa197ded394a8456507b5[m
+Author: Leonard <141798184+leonardz-ai@users.noreply.github.com>
+Date:   Fri Jan 12 15:58:19 2024 +0000
+
+    update ecrets.toml file, required to run the code and get API token from replicate.com
+
+[33mcommit f629ea7633a512c97c75146ace7076561d0f5a81[m
+Author: Leonard <141798184+leonardz-ai@users.noreply.github.com>
+Date:   Fri Jan 12 09:04:14 2024 -0600
+
+    Added Dev Container Folder
+
+[33mcommit f7b1840ebd8eb0597e834eecd7c890039df8d61c[m
+Author: Chanin Nantasenamat <51851491+dataprofessor@users.noreply.github.com>
+Date:   Thu Oct 26 14:40:48 2023 +0700
+
+    Update streamlit_app.py
+
+[33mcommit 6b4f479ee45d27dfa9d3b6cc383a4fbef76c314c[m
+Author: Chanin Nantasenamat <51851491+dataprofessor@users.noreply.github.com>
+Date:   Thu Aug 31 10:23:55 2023 +0700
+
+    Update streamlit_app.py
+
+[33mcommit 7dc2f0a91b51a0f0fb9a064f2a19cf94377fa5b3[m
+Author: Chanin Nantasenamat <51851491+dataprofessor@users.noreply.github.com>
+Date:   Thu Aug 31 10:19:40 2023 +0700
+
+    Update streamlit_app.py
+
+[33mcommit 43e9748440dacf4974a95a575929a582eef1fc3c[m
+Author: Chanin Nantasenamat <51851491+dataprofessor@users.noreply.github.com>
+Date:   Thu Aug 31 10:15:01 2023 +0700
+
+    Update streamlit_app.py
